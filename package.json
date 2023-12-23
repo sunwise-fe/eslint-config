@@ -1,6 +1,6 @@
 {
   "name": "@sunwise/eslint-config",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "new ESLint config for sunwise-fe.",
   "type": "module",
   "license": "MIT",
